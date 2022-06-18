@@ -14,8 +14,8 @@
 4. Click on the **followers** section in your profile. Scroll all the way to bottom until you dont see any more people are loading. Otherwise you will not see all the people.
 
 
-![loading](https://user-images.githubusercontent.com/86969996/174444649-8d9dc63c-5d2d-46ba-a08d-263c2e90c54d.png =200x200)
-![loaded](https://user-images.githubusercontent.com/86969996/174444652-7a2ec9c2-a523-47c8-926a-988c2532fbee.png =200x200)
+![loading](https://user-images.githubusercontent.com/86969996/174444649-8d9dc63c-5d2d-46ba-a08d-263c2e90c54d.png)
+![loaded](https://user-images.githubusercontent.com/86969996/174444652-7a2ec9c2-a523-47c8-926a-988c2532fbee.png)
 
 6. Right click on a random person in the list and select *inspect*. This will open a nerdy looking HTML code page
 7. Find <div class ="_aae-" in the HTML code and right click > Edit as HTML then copy all the code in the opened box. Paste this to followers.txt file.
