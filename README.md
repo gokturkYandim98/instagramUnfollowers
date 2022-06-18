@@ -1,4 +1,4 @@
-# instagramUnfollowers
+# Find People that are not following you back in Instagram
 
 - This tool helps you to find people that are not following you back in Instagram.
 - Tool **DOES NOT** asks you to provide your Login credentials (username or password) to work.
