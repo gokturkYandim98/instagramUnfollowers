@@ -18,7 +18,7 @@
 6. Right click on a random person in the list and select *inspect*. This will open a nerdy looking HTML code page
 <img src="https://user-images.githubusercontent.com/86969996/174444928-a08bce8f-c4b8-47e6-80c0-f90b94c03519.png"  width="450" height="300" />
 
-8. Find <div class ="_aae-" in the HTML code and right click > Edit as HTML then copy all the code in the opened box. Paste this to following.txt file.
+8. Find the part <div class ="_aae-"> in the HTML code and right click > Edit as HTML then copy all the code in the opened box. Paste this to following.txt file.
 
 <img src="https://user-images.githubusercontent.com/86969996/174445200-65023b6e-acb1-4f71-869a-eae942b37dbf.png"  width="450" height="300" />
   
